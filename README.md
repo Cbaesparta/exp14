@@ -97,6 +97,13 @@ int main()
     cout<<u1.uni+" "+u1.dept;
 }
 ~~~
+```
+/tmp/LbQueTWHLb.o
+engineering 
+symbiosis:  electronics and telecommunication 
+
+=== Code Execution Successful ===
+```
 
 multiple inheritance
 ~~~
@@ -141,6 +148,13 @@ int main()
     cout<<"("<<f2.seater<<")"<<endl<<"MILEAGE: "<<f2.mileage<<endl;
 }
 ~~~
+```
+/tmp/DGZYnVTYlm.o
+black
+ford ecosport
+(6 seater)
+MILEAGE: 6 kmpl
+```
 
 
 multilevel inheritance 
@@ -182,7 +196,12 @@ int main() {
     return 0;
 }
 ~~~
-
+```
+/tmp/2FEWBsZPhg.o
+This vehicle runs on petrol.
+This car has 5 doors.
+speed: 200 kmph.
+```
 
 inheritance
 ~~~
@@ -227,4 +246,10 @@ int main()
     return 0;
 }
 ~~~
-
+```
+/tmp/fTXN1sMpuE.o
+This vehicle runs on petrol.
+This car has 5 doors.
+This vehicle runs on petrol.
+it has 2 tyres.
+```
