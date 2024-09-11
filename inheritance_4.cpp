@@ -1,5 +1,5 @@
-// Sreejita Bhardwaj 
-// 23070123130 
+// Sai Sankar Jena
+// 23070123112
 // experiment 13: inheritance
 
 #include <iostream>
